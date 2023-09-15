@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+![image](https://github.com/hznutx/rental-car/assets/126380434/632b794f-bbaf-4f73-9652-17f29df679b9)
+
+![image](https://github.com/hznutx/rental-car/assets/126380434/16b9434b-68be-4a38-9b0b-de4e2243b258)
+
 ## Getting Started
 
 First, run the development server:
