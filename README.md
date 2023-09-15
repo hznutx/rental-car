@@ -31,7 +31,8 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 ## Deploy on Vercel
 
 
-Check out our project via deploy url code in GitHub 
+Check out our project via deploy url code in GitHub @hznutx [Rental-car](https://rental-car-tau.vercel.app/)
+
 
 ![image](https://github.com/hznutx/rental-car/assets/126380434/632b794f-bbaf-4f73-9652-17f29df679b9)
 
