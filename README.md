@@ -1,8 +1,5 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-![image](https://github.com/hznutx/rental-car/assets/126380434/632b794f-bbaf-4f73-9652-17f29df679b9)
-
-![image](https://github.com/hznutx/rental-car/assets/126380434/16b9434b-68be-4a38-9b0b-de4e2243b258)
 
 ## Getting Started
 
@@ -33,6 +30,11 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## Deploy on Vercel
 
+
+![image](https://github.com/hznutx/rental-car/assets/126380434/632b794f-bbaf-4f73-9652-17f29df679b9)
+
+![image](https://github.com/hznutx/rental-car/assets/126380434/16b9434b-68be-4a38-9b0b-de4e2243b258)
+
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Check out our project via deploy url code in GitHub and reach out more details on [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
