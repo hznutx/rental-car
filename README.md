@@ -31,11 +31,13 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 ## Deploy on Vercel
 
 
+Check out our project via deploy url code in GitHub 
+
 ![image](https://github.com/hznutx/rental-car/assets/126380434/632b794f-bbaf-4f73-9652-17f29df679b9)
 
 ![image](https://github.com/hznutx/rental-car/assets/126380434/d25334be-43f5-47e9-b844-4b1d2f7f7f88)
 
-Check out our project via deploy url code in GitHub and reach out more details on [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+and reach out more details on [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 All fully responsive and all function working properly.
 
